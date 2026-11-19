@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-19T02:40:37.045596Z",
+  "generated_at": "2026-11-19T02:45:17.395913Z",
   "status": "ok",
   "sources_ok": 13,
   "sources_total": 13,
-  "new_articles": 381,
+  "new_articles": 83,
   "errors": [],
   "articles": [
     {
@@ -493,6 +493,15 @@
       "collected_at": "2026-11-19T02:40:37.045596Z"
     },
     {
+      "id": "b6f9d735eb9b1cc53c7fcc3b",
+      "title": "US inflation surprise and Treasury yield surge may deepen liquidity challenges for NEAR and crypto assets - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbElRcDZRcTZkLVZ2Q05fa2t1SHA2bFVucWpKaFV0V3llMVhwUldzNEdiSEVBelVEb3dWOEpvMS1tTXZ2TjZvaENLQ1lpdmFnU1JVbkNId0xKM3BLdUhjT3lzOWFYeEtVdnV1bFNiclRWSDVHZG1aUE4zYTZzX003d05YWmxrTVI4aUc0OTdZdw?oc=5",
+      "source": "Traders Union",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-18T22:36:27Z",
+      "collected_at": "2026-11-19T02:45:17.395913Z"
+    },
+    {
       "id": "99c6810814e878c2323300e6",
       "title": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock",
       "url": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
@@ -626,6 +635,15 @@
       "category": "Estados Unidos",
       "published_at": "2026-11-18T21:08:02Z",
       "collected_at": "2026-11-19T02:40:37.045596Z"
+    },
+    {
+      "id": "d870c8d53647874a243fb65d",
+      "title": "US 20-Year Treasury Auction Stops at 5.459%, Demand Solid - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkOXZCYllPTzJ5MVhPUHJSMERqcW1aX1JtMjZxOGZkOGtXQzl0OERiQkdvLV9rQmxPb1BCZjZWZEdJVlBWT05PMXdVbmp4djlGUjNTTQ?oc=5",
+      "source": "bloomingbit",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-18T20:31:06Z",
+      "collected_at": "2026-11-19T02:45:17.395913Z"
     },
     {
       "id": "755a5fa7531eeef44afbb1aa",
@@ -2686,24 +2704,6 @@
       "source": "El Economista",
       "category": "México",
       "published_at": "2026-11-17T07:29:33Z",
-      "collected_at": "2026-11-19T02:40:37.045596Z"
-    },
-    {
-      "id": "480ed4d6d950bd728d76889d",
-      "title": "Inflation Is Sending US Bond Yields Higher Again. Here’s Why We’re Not Worried - Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUFpadnR4a3lSYlpoZ3lSTnowS0phdkpBd2p1MS1tUGV5UnpmWlhwdjNVUVdjdFhtV2RTR09ldW5NazF2bUx6bkRoOEF3VWU3bHBiY2JvNXhqMkVNRW1wbTlfOVU2NXZPcmRQd0E5ZmtlTldUZllwUmdwODlwQjdia05yZ1pjMWc1WEtKNDQzaFFlOC1MazQwQVVjRTRJU01jcnNaSVFTUlJlX2tZMGtPbno4aTJrd21UajktLQ?oc=5",
-      "source": "Morningstar",
-      "category": "Estados Unidos",
-      "published_at": "2026-11-17T07:07:37Z",
-      "collected_at": "2026-11-19T02:40:37.045596Z"
-    },
-    {
-      "id": "bbc1d434c78a4350c5c38cd0",
-      "title": "EXCLUSIVE: India may limit leveraged stock bets to curb volatility, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOW0tQWdjMmJOOUJOV3RYNzByeUVmLTZNYTRKTGszNHBqTVR2OHlrZnBLQXN6UlhFeFhOMGRBblFpSTJjcVJVckMybVJDYnhWU01VanpQOWNkVXFhZmlrYXM0empDNE5aXzBSQUVnSnBTSDlYZ3JJNURScmdzSFM5ei1VTTdiZVVhOTA4RjdOMHF0VkQ4bHhVdFZRek91d0NXVjlxVkh1UmMxWDZMMmpfelJ0aHhubWRu?oc=5",
-      "source": "Reuters",
-      "category": "Mercados",
-      "published_at": "2026-11-17T06:55:00Z",
       "collected_at": "2026-11-19T02:40:37.045596Z"
     }
   ]
