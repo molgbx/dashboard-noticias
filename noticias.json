@@ -1,11 +1,20 @@
 {
-  "generated_at": "2026-11-19T03:18:54.042275Z",
+  "generated_at": "2026-11-19T03:27:04.353160Z",
   "status": "ok",
   "sources_ok": 13,
   "sources_total": 13,
-  "new_articles": 90,
+  "new_articles": 92,
   "errors": [],
   "articles": [
+    {
+      "id": "5ef40a65c781696f0652502a",
+      "title": "Finanzas CDMX descartó un alza al predial por Programa Metropolitano - Imagen Radio",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOHBmUFBjaXlHc0VBNWFPQmpJVEZwWjJhU1JhZUZpNG5Xek85ZFk4YVllWmxCVXRGWEZsOERzaWRyYlJIbUJ5SWRVNWlvOFBUVHBFbldTdnBzbURyaE1wa3pobEU5U29uUHNFRVp4RzYxdXpIbVd0Rk1WSUwxQV9VeHBrUF9vMzRPZFRCX2YyMGNGR29HVldmTldvd0lGTVpOSkNGWdIBqgFBVV95cUxPNk1VNjVzNkpuUFpidVdaQUNubmRJQ2VhWmpLbktBTXNTcG5lNFpPR1ZaT3hoNk1EV3BMTUZXNElmRTNYN0dQNUpTVEpYeXBiaHBMX0VYMVNYS3daZzdsYXJSM1ZLb3ZLNmg1Qm1iWEptYVJySEVqRzZKZnpXR1lidFdfc19ZbG02VG1zMi1pWUt1NllUYXVneC1sTXVvOU5BbU9iYlQ1SEhrdw?oc=5",
+      "source": "Imagen Radio",
+      "category": "Política",
+      "published_at": "2026-11-19T03:00:34Z",
+      "collected_at": "2026-11-19T03:27:04.353160Z"
+    },
     {
       "id": "561bd1ef2632f2e0d0983061",
       "title": "SpaceX’s December Lock-Up Frees Another 17% of Its Shares. Here’s What October’s Unlock Did to the Stock.",
@@ -986,6 +995,15 @@
       "category": "Estados Unidos",
       "published_at": "2026-11-18T18:16:00Z",
       "collected_at": "2026-11-19T02:40:37.045596Z"
+    },
+    {
+      "id": "7d46dabe8ba710ffe32f11f4",
+      "title": "UK says ministers urgently working with India on tariff dispute for Scotch whisky imports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY1hmb256SjVmcVJudTZkZ0ZEbWtFZF8zamktckplMjBFUjVUMVVQUzRnaXFpSXJzdFZyVlJUcFlybkNvcXlQc3ZTTzgySXpybDZBb051Y0hEWjhnbVJybklIMUNVRDlCOGpLSXU3NU9YV0dmV21hS3otUlFQbTdjc3kzNG1EajhOX3k1NzVFd042d3AybDNFdkMxUUtfVVc5OEtNMjU2THprSGFkNjJPZm9yUUY0R3YxRGkw?oc=5",
+      "source": "Reuters",
+      "category": "Mercados",
+      "published_at": "2026-11-18T18:14:00Z",
+      "collected_at": "2026-11-19T03:27:04.353160Z"
     },
     {
       "id": "2e16f1bd3deabb32fa622989",
@@ -2687,24 +2705,6 @@
       "category": "Política",
       "published_at": "2026-11-17T11:22:54Z",
       "collected_at": "2026-11-19T02:40:37.045596Z"
-    },
-    {
-      "id": "fa49644999356d8d2e97cb0f",
-      "title": "CoreWeave Answered the Biggest Question About AI Stocks. Now Nvidia Has to Confirm It. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVzZjUENLaFJGZFYwYU55TVA2aHNUTUZtbm5WemlRT2lEa3ljTzA1NElvVXI1eDYtODR1MU9MQnVZUm9JOENvLU5DWm5Jb2FBbVBybFl6TmdsUzZtZkp1S0JRMThIZXU2WGlianR6blNJemJveWJkUmxsSjRqeGRBeHdJdkN2QUVNZ2w1SlNfamJFNEsweFVJeURLRUZydnh6UG13?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-17T11:03:01Z",
-      "collected_at": "2026-11-19T02:40:37.045596Z"
-    },
-    {
-      "id": "a5f01fd627ab24279c6061c5",
-      "title": "Gold struggles to rebound from one-year low as US dollar, yields advance - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGd6c05RMXpCQzBvWjhLZlZ6cjc4OUZ0cjZaSWxzZk9leV9WbG1EVmhoVlJfTHZZRFkxZml4Rll3TXd6SGc0dmtiSHFsYkVQWThZdkpxb3dGQkhpSkgyVC1HQlV5WkZQaHU4N3B2b2RELWdDaGpZLWtmbHo2cllMNE9tN29pYnJGM1Z4eFJ6bmNQdHJFX0lNTHZtV0x4MlNhT284LThTc1hTY2xlcEEta0wwNjg?oc=5",
-      "source": "Reuters",
-      "category": "Mercados",
-      "published_at": "2026-11-17T10:43:57Z",
-      "collected_at": "2026-11-19T03:18:54.042275Z"
     }
   ]
 }
